@@ -139,6 +139,7 @@ img {
     object-fit: cover;
     border: 3px solid #3882F6;
     border-radius: 10px;
+    margin-bottom: 1rem;
 }
 
 
@@ -167,4 +168,10 @@ img {
     gap: 2rem;
     justify-content: space-between;
     padding: 3rem 6rem 3rem 6rem;
+}
+
+/* Footer */
+.footer {
+    padding: 2rem 0 2rem 0;
+    text-align: center;
 }
