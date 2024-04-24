@@ -151,3 +151,20 @@ img {
 .quote-source {
     text-align: right;
 }
+
+/* Call to action */
+.action-div {
+    padding: 5rem 15rem 5rem 15rem;
+}
+
+.action-button {
+    border: 1px solid white;
+}
+
+.action-container {
+    border-radius: 1rem;
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+    padding: 3rem 6rem 3rem 6rem;
+}
